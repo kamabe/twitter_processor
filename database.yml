@@ -1,0 +1,6 @@
+twitter:
+  host: localhost
+  dbname: twitter
+  user: postgres
+  password: postgres
+  port: 5432
